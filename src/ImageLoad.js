@@ -18,7 +18,6 @@ const ImageLoad = React.memo(({ src, placeholder, alt = "" }) => {
   return (
     <img
       src={currentSrc}
-      className="ProgressiveImage"
       style={{
         opacity: loading ? 0.5 : 1,
         transition: "opacity .15s linear"
