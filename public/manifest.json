@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Progressive Image Load",
+  "name": "Progressive Image Load with React Hooks",
   "icons": [
     {
       "src": "favicon.ico",
