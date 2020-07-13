@@ -9,12 +9,11 @@ const ImageLoad = React.memo(({ src, placeholder, alt = "" }) => {
     const imageToLoad = new Image();
     imageToLoad.src = src;
     imageToLoad.onload = () => {
-      // When image is loaded replace the image's src and set loading to false
-      // this.setState({ currentSrc: src, loading: false });
+      // When image is loaded replace the src and set loading to false
       setLoading(false);
       updateSrc(src);
     }
-  }, [])
+  }, [src])
 
   return (
     <img
