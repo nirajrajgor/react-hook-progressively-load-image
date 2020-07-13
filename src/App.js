@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ImageLoad from './ImageLoad';
 import mountainRoad from "./assets/mountain-road.jpg";
@@ -13,10 +12,11 @@ function App() {
         <ImageLoad
           src={mountainRoad}
           placeholder={mountainRoadSmall}
+          alt="Mountain Road"
         />
       </header>
     </div>
-  );
+  )
 }
 
 export default App;
