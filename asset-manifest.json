@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-hook-progressively-load-image/static/css/main.78e2e180.chunk.css",
+    "main.js": "/react-hook-progressively-load-image/static/js/main.59d78aa1.chunk.js",
+    "main.js.map": "/react-hook-progressively-load-image/static/js/main.59d78aa1.chunk.js.map",
+    "runtime-main.js": "/react-hook-progressively-load-image/static/js/runtime-main.4d04e8e3.js",
+    "runtime-main.js.map": "/react-hook-progressively-load-image/static/js/runtime-main.4d04e8e3.js.map",
+    "static/js/2.51550b87.chunk.js": "/react-hook-progressively-load-image/static/js/2.51550b87.chunk.js",
+    "static/js/2.51550b87.chunk.js.map": "/react-hook-progressively-load-image/static/js/2.51550b87.chunk.js.map",
+    "index.html": "/react-hook-progressively-load-image/index.html",
+    "precache-manifest.de0986ae6d84ef8c2679e27b5dc97234.js": "/react-hook-progressively-load-image/precache-manifest.de0986ae6d84ef8c2679e27b5dc97234.js",
+    "service-worker.js": "/react-hook-progressively-load-image/service-worker.js",
+    "static/css/main.78e2e180.chunk.css.map": "/react-hook-progressively-load-image/static/css/main.78e2e180.chunk.css.map",
+    "static/js/2.51550b87.chunk.js.LICENSE.txt": "/react-hook-progressively-load-image/static/js/2.51550b87.chunk.js.LICENSE.txt",
+    "static/media/beach.jpg": "/react-hook-progressively-load-image/static/media/beach.153f6110.jpg",
+    "static/media/forest.jpg": "/react-hook-progressively-load-image/static/media/forest.a9ab5429.jpg",
+    "static/media/mountain-road.jpg": "/react-hook-progressively-load-image/static/media/mountain-road.0da4f3ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d04e8e3.js",
+    "static/js/2.51550b87.chunk.js",
+    "static/css/main.78e2e180.chunk.css",
+    "static/js/main.59d78aa1.chunk.js"
+  ]
+}
